@@ -1,4 +1,4 @@
-# CS498RK Passport Demo
+# CS498RK Final project - DARS redesign
 
 ## Installing and Running
  * npm install
